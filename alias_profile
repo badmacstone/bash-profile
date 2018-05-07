@@ -1,1 +1,2 @@
 alias pew="git pull -r && git push"
+alias y="git status"
