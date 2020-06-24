@@ -1,2 +1,3 @@
 alias pew="git pull -r && git push"
 alias y="git status"
+alias nproc="sysctl -n hw.ncpu"
